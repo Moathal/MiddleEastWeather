@@ -33,7 +33,7 @@ Not yet available.
 👤 **Mo'athal S. Kachi**
 
 - GitHub: [@Moathal](https://github.com/Moathal)
-- Linkedin: [@MoathalSabahKachi](www.linkedin.com/in/moathalkachi)
+- Linkedin: [@MoathalSabahKachi](https://www.linkedin.com/in/moathalkachi)
 
 
 ## 🤝 Contributing
