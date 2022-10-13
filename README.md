@@ -23,7 +23,7 @@ Not yet available.
 
 ### if you want to setup the project
 - clone the project // Must have code editor and github account to do that//
-- `cd bookstore`
+- `cd MiddleEastWeather`
 - `npm i`
 - `npm start`
 
