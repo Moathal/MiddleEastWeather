@@ -14,6 +14,7 @@
 ## live preview
 Not yet available.
 
+## [Presentation Video](https://loom.com/share/4caa7c2a34df494e94c878922ce88fb0)
 
 ## Getting Started
 
@@ -23,7 +24,7 @@ Not yet available.
 
 ### if you want to setup the project
 - clone the project // Must have code editor and github account to do that//
-- `cd bookstore`
+- `cd MiddleEastWeather`
 - `npm i`
 - `npm start`
 
@@ -33,7 +34,7 @@ Not yet available.
 👤 **Mo'athal S. Kachi**
 
 - GitHub: [@Moathal](https://github.com/Moathal)
-- Linkedin: [@MoathalSabahKachi](www.linkedin.com/in/moathalkachi)
+- Linkedin: [@MoathalSabahKachi](https://www.linkedin.com/in/moathalkachi)
 
 
 ## 🤝 Contributing

@@ -1,0 +1,29 @@
+.home-Header {
+  height: 20%;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  width: calc(100% - 6px);
+  justify-content: space-evenly;
+  gap: 3px;
+  box-shadow: 0 0 6px rgb(0, 29, 56);
+  margin-bottom: 12px;
+}
+
+.countries {
+  height: 25vh;
+}
+
+.countriesContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+}
+
+.search {
+  width: 120px;
+  border-radius: 6px;
+  border: none;
+  font-size: 12px;
+  padding: 6px;
+}
