@@ -11,6 +11,7 @@ function Details() {
   const id = location.pathname.substring(9, location.pathname.length);
   useEffect(() => {
     dispatch(countryThunk(id));
+  // eslint-disable-next-line
   }, [dispatch]);
   return (
     <>

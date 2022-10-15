@@ -1,7 +1,7 @@
 import renderer from 'react-test-renderer';
 import { Provider } from 'react-redux';
 import { MemoryRouter as Router } from 'react-router-dom';
-import store from '../../redux/configureStore';
+import store from '../../Redux/configureStore';
 import Details from '../../components/Details/Details';
 
 it('renders Details correctly', () => {
