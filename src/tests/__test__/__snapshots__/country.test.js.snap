@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Country correctly 1`] = `
+<div>
+  <a
+    className="countryContainer"
+    href="/details/undefined"
+    onClick={[Function]}
+  >
+    <img
+      alt="country's Map"
+      className="left"
+    />
+    <div
+      className="right"
+    >
+      <img
+        alt="goto icon"
+        className="goto"
+        src="group55.png"
+      />
+      <p
+        className="name"
+      />
+    </div>
+  </a>
+</div>
+`;
