@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Header correctly 1`] = `
+<div
+  className="header-container"
+>
+  <a
+    className="hidden"
+    current="/"
+    href="/"
+    onClick={[Function]}
+  >
+    <img
+      alt="back arrow"
+      className="backIcon"
+      src="backIcon.ico.png"
+    />
+  </a>
+  <div
+    className="website-identifier"
+  >
+    <img
+      alt="logo"
+      className="logo"
+      src="favicon.png"
+    />
+    <h1>
+      MEWeather
+    </h1>
+  </div>
+</div>
+`;
