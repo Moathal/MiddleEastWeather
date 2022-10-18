@@ -11,8 +11,7 @@
 - webpack, bootstrap, ReactJS, ReduxJS.
 
 
-## live preview
-Not yet available.
+## [live preview](https://634e92fdfb2d5a612a53cefe--adorable-gumption-bc705f.netlify.app/)
 
 ## [Presentation Video](https://loom.com/share/4caa7c2a34df494e94c878922ce88fb0)
 
